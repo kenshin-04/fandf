@@ -1,0 +1,3 @@
+function buyNow(product) {
+  alert(`Thank you for buying ${product}! (This is a placeholder — connect to Stripe or PayPal to go live.)`);
+}
